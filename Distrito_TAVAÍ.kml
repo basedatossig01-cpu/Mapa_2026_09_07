@@ -2,9 +2,10 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document id="root_doc">
     <Schema id="Distrito_TAVA__.schema">
-      <SimpleField name="CÈdula" type="double"/>
+      <SimpleField name="CÈdula" type="float"/>
       <SimpleField name="cedula" type="string"/>
-      <SimpleField name="N" type="double"/>
+      <SimpleField name="CÈdula_1" type="float"/>
+      <SimpleField name="N" type="float"/>
       <SimpleField name="Nombres_y_" type="string"/>
       <SimpleField name="Sexo" type="string"/>
       <SimpleField name="Cambio_de_" type="string"/>
@@ -17,33 +18,34 @@
       <SimpleField name="Distrito" type="string"/>
       <SimpleField name="Localidad" type="string"/>
       <SimpleField name="TelÈfono" type="string"/>
-      <SimpleField name="Vivienda_L" type="double"/>
-      <SimpleField name="Vivienda_1" type="double"/>
-      <SimpleField name="Superficie" type="double"/>
+      <SimpleField name="Vivienda_L" type="float"/>
+      <SimpleField name="Vivienda_1" type="float"/>
+      <SimpleField name="Superficie" type="float"/>
       <SimpleField name="Situaci_1" type="string"/>
       <SimpleField name="Plantado" type="string"/>
-      <SimpleField name="Parcela_La" type="double"/>
-      <SimpleField name="Parcela_Lo" type="double"/>
+      <SimpleField name="Parcela_La" type="float"/>
+      <SimpleField name="Parcela_Lo" type="float"/>
       <SimpleField name="Grupo_Impl" type="string"/>
       <SimpleField name="Grupo_de_P" type="string"/>
-      <SimpleField name="Jornales" type="double"/>
-      <SimpleField name="Monto" type="double"/>
+      <SimpleField name="Jornales" type="float"/>
+      <SimpleField name="Monto" type="float"/>
       <SimpleField name="ETAPA_FAO" type="string"/>
       <SimpleField name="Asistencia" type="string"/>
       <SimpleField name="Estado_del" type="string"/>
       <SimpleField name="Empresa" type="string"/>
       <SimpleField name="Lote" type="string"/>
+      <SimpleField name="Monitorear" type="string"/>
       <SimpleField name="Fecha_de_M" type="string"/>
       <SimpleField name="F__de_pren" type="string"/>
       <SimpleField name="Estado_FAO" type="string"/>
       <SimpleField name="Etapa_de_i" type="string"/>
-      <SimpleField name="Fecha_visi" type="string"/>
       <SimpleField name="Cumple_sup" type="string"/>
       <SimpleField name="Estado_mon" type="string"/>
       <SimpleField name="Situaci_12" type="string"/>
       <SimpleField name="Observaci" type="string"/>
-      <SimpleField name="Dias_trans" type="double"/>
+      <SimpleField name="Dias_trans" type="float"/>
       <SimpleField name="Prioridad" type="string"/>
+      <SimpleField name="OBJECTID_1" type="int"/>
     </Schema>
     <Document id="Distrito_TAVA__">
       <name>Distrito_TAVA√ç</name>
@@ -52,6 +54,7 @@
           <SchemaData schemaUrl="#Distrito_TAVA__.schema">
             <SimpleData name="CÈdula">5027967.00000000000</SimpleData>
             <SimpleData name="cedula">5027967</SimpleData>
+            <SimpleData name="CÈdula_1">5027967.00000000000</SimpleData>
             <SimpleData name="N">341.00000000000</SimpleData>
             <SimpleData name="Nombres_y_">WALTER  SANCHEZ BENITEZ</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
@@ -81,6 +84,7 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
             <SimpleData name="Lote">A</SimpleData>
+            <SimpleData name="Monitorear">No</SimpleData>
             <SimpleData name="Fecha_de_M">-</SimpleData>
             <SimpleData name="F__de_pren">-</SimpleData>
             <SimpleData name="Estado_FAO">Monitorear</SimpleData>
@@ -92,6 +96,7 @@
             <SimpleData name="Observaci">-</SimpleData>
             <SimpleData name="Dias_trans">4.49052083334</SimpleData>
             <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">341</SimpleData>
           </SchemaData>
         </ExtendedData>
         <MultiGeometry>
@@ -116,7 +121,7 @@
             <outerBoundaryIs>
               <LinearRing>
                 <coordinates>
-                  -55.6037151000053,-26.2416391999255,0
+                  -55.6037151000053,-26.2416391999254,0
                   -55.6037398994095,-26.2423016997967,0
                   -55.6037599993322,-26.2423167993304,0
                   -55.6037949991931,-26.2420617000964,0
@@ -125,7 +130,7 @@
                   -55.6040964992388,-26.2419785000422,0
                   -55.6037749996401,-26.2419282997644,0
                   -55.6037665994215,-26.2416500996985,0
-                  -55.6037151000053,-26.2416391999255,0
+                  -55.6037151000053,-26.2416391999254,0
                 </coordinates>
               </LinearRing>
             </outerBoundaryIs>
@@ -137,6 +142,7 @@
           <SchemaData schemaUrl="#Distrito_TAVA__.schema">
             <SimpleData name="CÈdula">7011500.00000000000</SimpleData>
             <SimpleData name="cedula">7011500</SimpleData>
+            <SimpleData name="CÈdula_1">7011500.00000000000</SimpleData>
             <SimpleData name="N">354.00000000000</SimpleData>
             <SimpleData name="Nombres_y_">SONIA ELIZABETH  FLORES ROTELA</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
@@ -166,6 +172,7 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
             <SimpleData name="Lote">A</SimpleData>
+            <SimpleData name="Monitorear">No</SimpleData>
             <SimpleData name="Fecha_de_M">-</SimpleData>
             <SimpleData name="F__de_pren">-</SimpleData>
             <SimpleData name="Estado_FAO">Monitorear</SimpleData>
@@ -177,6 +184,7 @@
             <SimpleData name="Observaci">-</SimpleData>
             <SimpleData name="Dias_trans">5.22215277778</SimpleData>
             <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">354</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -198,6 +206,7 @@
           <SchemaData schemaUrl="#Distrito_TAVA__.schema">
             <SimpleData name="CÈdula">6297590.00000000000</SimpleData>
             <SimpleData name="cedula">6297590</SimpleData>
+            <SimpleData name="CÈdula_1">6297590.00000000000</SimpleData>
             <SimpleData name="N">319.00000000000</SimpleData>
             <SimpleData name="Nombres_y_">ARACELIA  SANABRIA RUIZ DIAZ</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
@@ -227,6 +236,7 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
             <SimpleData name="Lote">A</SimpleData>
+            <SimpleData name="Monitorear">No</SimpleData>
             <SimpleData name="Fecha_de_M">-</SimpleData>
             <SimpleData name="F__de_pren">-</SimpleData>
             <SimpleData name="Estado_FAO">Monitorear</SimpleData>
@@ -238,6 +248,7 @@
             <SimpleData name="Observaci">-</SimpleData>
             <SimpleData name="Dias_trans">4.19719907407</SimpleData>
             <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">319</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -261,6 +272,7 @@
           <SchemaData schemaUrl="#Distrito_TAVA__.schema">
             <SimpleData name="CÈdula">9115513.00000000000</SimpleData>
             <SimpleData name="cedula">9115513</SimpleData>
+            <SimpleData name="CÈdula_1">9115513.00000000000</SimpleData>
             <SimpleData name="N">338.00000000000</SimpleData>
             <SimpleData name="Nombres_y_">BRUNO DANIEL MENDIETA SARATE</SimpleData>
             <SimpleData name="Sexo">Hombre</SimpleData>
@@ -290,6 +302,7 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
             <SimpleData name="Lote">A</SimpleData>
+            <SimpleData name="Monitorear">No</SimpleData>
             <SimpleData name="Fecha_de_M">-</SimpleData>
             <SimpleData name="F__de_pren">-</SimpleData>
             <SimpleData name="Estado_FAO">Monitorear</SimpleData>
@@ -301,6 +314,7 @@
             <SimpleData name="Observaci">-</SimpleData>
             <SimpleData name="Dias_trans">4.29980324074</SimpleData>
             <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">338</SimpleData>
           </SchemaData>
         </ExtendedData>
         <MultiGeometry>
@@ -342,6 +356,7 @@
           <SchemaData schemaUrl="#Distrito_TAVA__.schema">
             <SimpleData name="CÈdula">6013301.00000000000</SimpleData>
             <SimpleData name="cedula">6013301</SimpleData>
+            <SimpleData name="CÈdula_1">6013301.00000000000</SimpleData>
             <SimpleData name="N">321.00000000000</SimpleData>
             <SimpleData name="Nombres_y_">WILSON  LOMBARDO MOREL</SimpleData>
             <SimpleData name="Sexo">Hombre</SimpleData>
@@ -371,6 +386,7 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
             <SimpleData name="Lote">A</SimpleData>
+            <SimpleData name="Monitorear">No</SimpleData>
             <SimpleData name="Fecha_de_M">-</SimpleData>
             <SimpleData name="F__de_pren">-</SimpleData>
             <SimpleData name="Estado_FAO">Monitorear</SimpleData>
@@ -382,6 +398,7 @@
             <SimpleData name="Observaci">-</SimpleData>
             <SimpleData name="Dias_trans">3.46905092592</SimpleData>
             <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">321</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -406,6 +423,7 @@
           <SchemaData schemaUrl="#Distrito_TAVA__.schema">
             <SimpleData name="CÈdula">6585410.00000000000</SimpleData>
             <SimpleData name="cedula">6585410</SimpleData>
+            <SimpleData name="CÈdula_1">6585410.00000000000</SimpleData>
             <SimpleData name="N">320.00000000000</SimpleData>
             <SimpleData name="Nombres_y_">SONIA  LOMBARDO AREVALOS</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
@@ -435,6 +453,7 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
             <SimpleData name="Lote">A</SimpleData>
+            <SimpleData name="Monitorear">No</SimpleData>
             <SimpleData name="Fecha_de_M">-</SimpleData>
             <SimpleData name="F__de_pren">-</SimpleData>
             <SimpleData name="Estado_FAO">Monitorear</SimpleData>
@@ -446,6 +465,7 @@
             <SimpleData name="Observaci">-</SimpleData>
             <SimpleData name="Dias_trans">3.46901620370</SimpleData>
             <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">320</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>

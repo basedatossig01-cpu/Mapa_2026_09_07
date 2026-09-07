@@ -2,9 +2,10 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document id="root_doc">
     <Schema id="Distrito_NUEVA_TOLEDO.schema">
-      <SimpleField name="Cédula" type="double"/>
+      <SimpleField name="Cédula" type="float"/>
       <SimpleField name="cedula" type="string"/>
-      <SimpleField name="N" type="double"/>
+      <SimpleField name="Cédula_1" type="float"/>
+      <SimpleField name="N" type="float"/>
       <SimpleField name="Nombres_y_" type="string"/>
       <SimpleField name="Sexo" type="string"/>
       <SimpleField name="Cambio_de_" type="string"/>
@@ -17,33 +18,34 @@
       <SimpleField name="Distrito" type="string"/>
       <SimpleField name="Localidad" type="string"/>
       <SimpleField name="Teléfono" type="string"/>
-      <SimpleField name="Vivienda_L" type="double"/>
-      <SimpleField name="Vivienda_1" type="double"/>
-      <SimpleField name="Superficie" type="double"/>
+      <SimpleField name="Vivienda_L" type="float"/>
+      <SimpleField name="Vivienda_1" type="float"/>
+      <SimpleField name="Superficie" type="float"/>
       <SimpleField name="Situaci_1" type="string"/>
       <SimpleField name="Plantado" type="string"/>
-      <SimpleField name="Parcela_La" type="double"/>
-      <SimpleField name="Parcela_Lo" type="double"/>
+      <SimpleField name="Parcela_La" type="float"/>
+      <SimpleField name="Parcela_Lo" type="float"/>
       <SimpleField name="Grupo_Impl" type="string"/>
       <SimpleField name="Grupo_de_P" type="string"/>
-      <SimpleField name="Jornales" type="double"/>
-      <SimpleField name="Monto" type="double"/>
+      <SimpleField name="Jornales" type="float"/>
+      <SimpleField name="Monto" type="float"/>
       <SimpleField name="ETAPA_FAO" type="string"/>
       <SimpleField name="Asistencia" type="string"/>
       <SimpleField name="Estado_del" type="string"/>
       <SimpleField name="Empresa" type="string"/>
       <SimpleField name="Lote" type="string"/>
+      <SimpleField name="Monitorear" type="string"/>
       <SimpleField name="Fecha_de_M" type="string"/>
       <SimpleField name="F__de_pren" type="string"/>
       <SimpleField name="Estado_FAO" type="string"/>
       <SimpleField name="Etapa_de_i" type="string"/>
-      <SimpleField name="Fecha_visi" type="string"/>
       <SimpleField name="Cumple_sup" type="string"/>
       <SimpleField name="Estado_mon" type="string"/>
       <SimpleField name="Situaci_12" type="string"/>
       <SimpleField name="Observaci" type="string"/>
-      <SimpleField name="Dias_trans" type="double"/>
+      <SimpleField name="Dias_trans" type="float"/>
       <SimpleField name="Prioridad" type="string"/>
+      <SimpleField name="OBJECTID_1" type="int"/>
     </Schema>
     <Document id="Distrito_NUEVA_TOLEDO">
       <name>Distrito_NUEVA TOLEDO</name>
@@ -52,6 +54,7 @@
           <SchemaData schemaUrl="#Distrito_NUEVA_TOLEDO.schema">
             <SimpleData name="Cédula">7271488.00000000000</SimpleData>
             <SimpleData name="cedula">7271488</SimpleData>
+            <SimpleData name="Cédula_1">7271488.00000000000</SimpleData>
             <SimpleData name="N">244.00000000000</SimpleData>
             <SimpleData name="Nombres_y_">ANA ESQUIVEL CHAVEZ</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
@@ -81,6 +84,7 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">E</SimpleData>
+            <SimpleData name="Monitorear">No</SimpleData>
             <SimpleData name="Fecha_de_M">-</SimpleData>
             <SimpleData name="F__de_pren">-</SimpleData>
             <SimpleData name="Estado_FAO">Monitorear</SimpleData>
@@ -92,6 +96,7 @@
             <SimpleData name="Observaci">-</SimpleData>
             <SimpleData name="Dias_trans">9.48230324074</SimpleData>
             <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">244</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -139,6 +144,7 @@
           <SchemaData schemaUrl="#Distrito_NUEVA_TOLEDO.schema">
             <SimpleData name="Cédula">7260283.00000000000</SimpleData>
             <SimpleData name="cedula">7260283</SimpleData>
+            <SimpleData name="Cédula_1">7260283.00000000000</SimpleData>
             <SimpleData name="N">242.00000000000</SimpleData>
             <SimpleData name="Nombres_y_">ELISEO MEDINA BARRIOS</SimpleData>
             <SimpleData name="Sexo">Hombre</SimpleData>
@@ -168,6 +174,7 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">E</SimpleData>
+            <SimpleData name="Monitorear">No</SimpleData>
             <SimpleData name="Fecha_de_M">-</SimpleData>
             <SimpleData name="F__de_pren">-</SimpleData>
             <SimpleData name="Estado_FAO">Monitorear</SimpleData>
@@ -179,6 +186,7 @@
             <SimpleData name="Observaci">-</SimpleData>
             <SimpleData name="Dias_trans">9.48664351852</SimpleData>
             <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">242</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -216,6 +224,7 @@
           <SchemaData schemaUrl="#Distrito_NUEVA_TOLEDO.schema">
             <SimpleData name="Cédula">8069716.00000000000</SimpleData>
             <SimpleData name="cedula">8069716</SimpleData>
+            <SimpleData name="Cédula_1">8069716.00000000000</SimpleData>
             <SimpleData name="N">243.00000000000</SimpleData>
             <SimpleData name="Nombres_y_">RAQUEL FERNANDEZ VILLALBA</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
@@ -245,6 +254,7 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">E</SimpleData>
+            <SimpleData name="Monitorear">No</SimpleData>
             <SimpleData name="Fecha_de_M">-</SimpleData>
             <SimpleData name="F__de_pren">-</SimpleData>
             <SimpleData name="Estado_FAO">Monitorear</SimpleData>
@@ -256,6 +266,7 @@
             <SimpleData name="Observaci">-</SimpleData>
             <SimpleData name="Dias_trans">9.48660879629</SimpleData>
             <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">243</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -291,6 +302,7 @@
           <SchemaData schemaUrl="#Distrito_NUEVA_TOLEDO.schema">
             <SimpleData name="Cédula">7434623.00000000000</SimpleData>
             <SimpleData name="cedula">7434623</SimpleData>
+            <SimpleData name="Cédula_1">7434623.00000000000</SimpleData>
             <SimpleData name="N">245.00000000000</SimpleData>
             <SimpleData name="Nombres_y_">LUCILA PORTILLO BOGADO</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
@@ -320,6 +332,7 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">E</SimpleData>
+            <SimpleData name="Monitorear">No</SimpleData>
             <SimpleData name="Fecha_de_M">-</SimpleData>
             <SimpleData name="F__de_pren">-</SimpleData>
             <SimpleData name="Estado_FAO">Monitorear</SimpleData>
@@ -331,6 +344,7 @@
             <SimpleData name="Observaci">-</SimpleData>
             <SimpleData name="Dias_trans">11.18479166670</SimpleData>
             <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">245</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
