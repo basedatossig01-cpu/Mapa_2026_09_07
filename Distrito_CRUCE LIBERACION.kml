@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Distrito_CRUCE_LIBERACION.schema">
+      <SimpleField name="Cédula" type="double"/>
+      <SimpleField name="cedula" type="string"/>
+      <SimpleField name="N" type="double"/>
+      <SimpleField name="Nombres_y_" type="string"/>
+      <SimpleField name="Sexo" type="string"/>
+      <SimpleField name="Cambio_de_" type="string"/>
+      <SimpleField name="Titular_se" type="string"/>
+      <SimpleField name="Cédula_Ti" type="string"/>
+      <SimpleField name="Situación" type="string"/>
+      <SimpleField name="Comunidad" type="string"/>
+      <SimpleField name="Modelo_imp" type="string"/>
+      <SimpleField name="Departamen" type="string"/>
+      <SimpleField name="Distrito" type="string"/>
+      <SimpleField name="Localidad" type="string"/>
+      <SimpleField name="Teléfono" type="string"/>
+      <SimpleField name="Vivienda_L" type="double"/>
+      <SimpleField name="Vivienda_1" type="double"/>
+      <SimpleField name="Superficie" type="double"/>
+      <SimpleField name="Situaci_1" type="string"/>
+      <SimpleField name="Plantado" type="string"/>
+      <SimpleField name="Parcela_La" type="double"/>
+      <SimpleField name="Parcela_Lo" type="double"/>
+      <SimpleField name="Grupo_Impl" type="string"/>
+      <SimpleField name="Grupo_de_P" type="string"/>
+      <SimpleField name="Jornales" type="double"/>
+      <SimpleField name="Monto" type="double"/>
+      <SimpleField name="ETAPA_FAO" type="string"/>
+      <SimpleField name="Asistencia" type="string"/>
+      <SimpleField name="Estado_del" type="string"/>
+      <SimpleField name="Empresa" type="string"/>
+      <SimpleField name="Lote" type="string"/>
+      <SimpleField name="Fecha_de_M" type="string"/>
+      <SimpleField name="F__de_pren" type="string"/>
+      <SimpleField name="Estado_FAO" type="string"/>
+      <SimpleField name="Etapa_de_i" type="string"/>
+      <SimpleField name="Fecha_visi" type="string"/>
+      <SimpleField name="Cumple_sup" type="string"/>
+      <SimpleField name="Estado_mon" type="string"/>
+      <SimpleField name="Situaci_12" type="string"/>
+      <SimpleField name="Observaci" type="string"/>
+      <SimpleField name="Dias_trans" type="double"/>
+      <SimpleField name="Prioridad" type="string"/>
+    </Schema>
+    <Document id="Distrito_CRUCE_LIBERACION">
+      <name>Distrito_CRUCE LIBERACION</name>
+      <Placemark id="Distrito_CRUCE_LIBERACION.1">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_CRUCE_LIBERACION.schema">
+            <SimpleData name="Cédula">4465542.00000000000</SimpleData>
+            <SimpleData name="cedula">4465542</SimpleData>
+            <SimpleData name="N">283.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">ELIDA MABEL ALMEIDA DUARTE</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">-</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">CRUCE LIBERACION</SimpleData>
+            <SimpleData name="Localidad">BARRIO OVETENSE</SimpleData>
+            <SimpleData name="Teléfono">0984171782</SimpleData>
+            <SimpleData name="Vivienda_L">-24.14162540000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.49585890000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-24.14410463000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.49538292000</SimpleData>
+            <SimpleData name="Grupo_Impl">G3</SimpleData>
+            <SimpleData name="Grupo_de_P">I-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Asistencia">-</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">I</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/01</SimpleData>
+            <SimpleData name="Cumple_sup">Si</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">5.21414351852</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -56.494894899864,-24.1444686005393,0
+                  -56.4957986997859,-24.1445058998256,0
+                  -56.4958441999848,-24.1439513000738,0
+                  -56.4949489990971,-24.1439266001323,0
+                  -56.494894899864,-24.1444686005393,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -56.4949417992382,-24.1437643004625,0
+                  -56.4958672999028,-24.1438179004731,0
+                  -56.4958868995787,-24.1436704998207,0
+                  -56.4949865991987,-24.1436115000597,0
+                  -56.4949417992382,-24.1437643004625,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Distrito_CRUCE_LIBERACION.2">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_CRUCE_LIBERACION.schema">
+            <SimpleData name="Cédula">5411327.00000000000</SimpleData>
+            <SimpleData name="cedula">5411327</SimpleData>
+            <SimpleData name="N">280.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">EDISON CARLOS LANGNER MEDINA</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">-</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">CRUCE LIBERACION</SimpleData>
+            <SimpleData name="Localidad">SAN PABLO</SimpleData>
+            <SimpleData name="Teléfono">0984357758</SimpleData>
+            <SimpleData name="Vivienda_L">-24.16531230000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.45994250000</SimpleData>
+            <SimpleData name="Superficie">0.80000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-24.16481881000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.45790331000</SimpleData>
+            <SimpleData name="Grupo_Impl">G3</SimpleData>
+            <SimpleData name="Grupo_de_P">I-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Asistencia">-</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">I</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/02</SimpleData>
+            <SimpleData name="Cumple_sup">Si</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">4.34283564815</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.4564174998385,-24.1647532004244,0
+                -56.4592938995375,-24.1651663002423,0
+                -56.4593333991161,-24.1648718998163,0
+                -56.4565510994349,-24.1644779999428,0
+                -56.4564174998385,-24.1647532004244,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_CRUCE_LIBERACION.3">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_CRUCE_LIBERACION.schema">
+            <SimpleData name="Cédula">5319484.00000000000</SimpleData>
+            <SimpleData name="cedula">5319484</SimpleData>
+            <SimpleData name="N">279.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">PABLINA BOGARIN PEREIRA</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">-</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">CRUCE LIBERACION</SimpleData>
+            <SimpleData name="Localidad">BARRIO SANTA LUCIA</SimpleData>
+            <SimpleData name="Teléfono">0975943293</SimpleData>
+            <SimpleData name="Vivienda_L">-24.17829600000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.47955810000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-24.17925580000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.47984597000</SimpleData>
+            <SimpleData name="Grupo_Impl">G3</SimpleData>
+            <SimpleData name="Grupo_de_P">I-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Asistencia">-</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">I</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/01</SimpleData>
+            <SimpleData name="Cumple_sup">Si</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">5.21416666666</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -56.4790636999687,-24.1792617000264,0
+                  -56.4795517998292,-24.1793102004627,0
+                  -56.4795695998584,-24.179042699656,0
+                  -56.4790897995464,-24.1789840000015,0
+                  -56.4790636999687,-24.1792617000264,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -56.4795132997054,-24.179576600066,0
+                  -56.4803119996685,-24.1796961004943,0
+                  -56.480402199716,-24.1789714998416,0
+                  -56.4796511995129,-24.1788628004082,0
+                  -56.4795132997054,-24.179576600066,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Distrito_CRUCE_LIBERACION.4">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_CRUCE_LIBERACION.schema">
+            <SimpleData name="Cédula">6696174.00000000000</SimpleData>
+            <SimpleData name="cedula">6696174</SimpleData>
+            <SimpleData name="N">278.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">GRACIELA VILLASANTI MEDINA</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">-</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">CRUCE LIBERACION</SimpleData>
+            <SimpleData name="Localidad">CALLE SAN JORGE</SimpleData>
+            <SimpleData name="Teléfono">0971478057</SimpleData>
+            <SimpleData name="Vivienda_L">-24.22808340000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.46554650000</SimpleData>
+            <SimpleData name="Superficie">0.80000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-24.23153873000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.46579690000</SimpleData>
+            <SimpleData name="Grupo_Impl">G3</SimpleData>
+            <SimpleData name="Grupo_de_P">I-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Asistencia">-</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">I</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/04</SimpleData>
+            <SimpleData name="Cumple_sup">Si</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">2.39377314815</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.4653395000716,-24.2311595001487,0
+                -56.465386499153,-24.2319865997752,0
+                -56.4662547998343,-24.2318994005066,0
+                -56.4662216000777,-24.2311119003978,0
+                -56.4653395000716,-24.2311595001487,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_CRUCE_LIBERACION.5">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_CRUCE_LIBERACION.schema">
+            <SimpleData name="Cédula">6359269.00000000000</SimpleData>
+            <SimpleData name="cedula">6359269</SimpleData>
+            <SimpleData name="N">277.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MARIA CAROLINA RIOS GOMEZ</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">-</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">CRUCE LIBERACION</SimpleData>
+            <SimpleData name="Localidad">BARRIO SANTA LIBRADA</SimpleData>
+            <SimpleData name="Teléfono">0983309991</SimpleData>
+            <SimpleData name="Vivienda_L">-24.21587450000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.47444210000</SimpleData>
+            <SimpleData name="Superficie">0.80000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-24.22786884000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.47561025000</SimpleData>
+            <SimpleData name="Grupo_Impl">G3</SimpleData>
+            <SimpleData name="Grupo_de_P">I-P2-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Asistencia">-</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">I</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/04</SimpleData>
+            <SimpleData name="Cumple_sup">Si</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">2.42119212963</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.4751896991601,-24.2274395999794,0
+                -56.4751708994094,-24.2283146997392,0
+                -56.4760679997627,-24.2282896999086,0
+                -56.476007599477,-24.2274044999284,0
+                -56.4751896991601,-24.2274395999794,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_CRUCE_LIBERACION.6">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_CRUCE_LIBERACION.schema">
+            <SimpleData name="Cédula">5122958.00000000000</SimpleData>
+            <SimpleData name="cedula">5122958</SimpleData>
+            <SimpleData name="N">367.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">SONIA ORTEGA PORTILLO</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">-</SimpleData>
+            <SimpleData name="Situación">-</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">CRUCE LIBERACION</SimpleData>
+            <SimpleData name="Localidad">SANTA LIBRADA</SimpleData>
+            <SimpleData name="Teléfono">987348688</SimpleData>
+            <SimpleData name="Vivienda_L">-24.20273960000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.47360580000</SimpleData>
+            <SimpleData name="Superficie">0.80000000000</SimpleData>
+            <SimpleData name="Situaci_1">Parametro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-24.20849207000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.47867442000</SimpleData>
+            <SimpleData name="Grupo_Impl">G3</SimpleData>
+            <SimpleData name="Grupo_de_P">I-P2-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Asistencia">-</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">I</SimpleData>
+            <SimpleData name="Fecha_de_M">28/7/2026</SimpleData>
+            <SimpleData name="F__de_pren">70</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear Reposicion</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/04</SimpleData>
+            <SimpleData name="Cumple_sup">-</SimpleData>
+            <SimpleData name="Estado_mon">??????NO CUMPLE??????</SimpleData>
+            <SimpleData name="Situaci_12">En el momento del monitoreo se observa plantas con marchites permanente por consecuencia del estr?s hidrico y vientos fuertes sufrido en la semana de la reposici?n, se recomienda realizar reposiciones de especie de r?pido crecimiento</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">2.39383101852</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.4782164994542,-24.2080418996793,0
+                -56.4782694998042,-24.2089715004259,0
+                -56.4791644991876,-24.2089178000098,0
+                -56.4790528995173,-24.20801530041,0
+                -56.4782164994542,-24.2080418996793,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

@@ -1,0 +1,1422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Distrito_GUAYAIBI.schema">
+      <SimpleField name="Cédula" type="double"/>
+      <SimpleField name="cedula" type="string"/>
+      <SimpleField name="N" type="double"/>
+      <SimpleField name="Nombres_y_" type="string"/>
+      <SimpleField name="Sexo" type="string"/>
+      <SimpleField name="Cambio_de_" type="string"/>
+      <SimpleField name="Titular_se" type="string"/>
+      <SimpleField name="Cédula_Ti" type="string"/>
+      <SimpleField name="Situación" type="string"/>
+      <SimpleField name="Comunidad" type="string"/>
+      <SimpleField name="Modelo_imp" type="string"/>
+      <SimpleField name="Departamen" type="string"/>
+      <SimpleField name="Distrito" type="string"/>
+      <SimpleField name="Localidad" type="string"/>
+      <SimpleField name="Teléfono" type="string"/>
+      <SimpleField name="Vivienda_L" type="double"/>
+      <SimpleField name="Vivienda_1" type="double"/>
+      <SimpleField name="Superficie" type="double"/>
+      <SimpleField name="Situaci_1" type="string"/>
+      <SimpleField name="Plantado" type="string"/>
+      <SimpleField name="Parcela_La" type="double"/>
+      <SimpleField name="Parcela_Lo" type="double"/>
+      <SimpleField name="Grupo_Impl" type="string"/>
+      <SimpleField name="Grupo_de_P" type="string"/>
+      <SimpleField name="Jornales" type="double"/>
+      <SimpleField name="Monto" type="double"/>
+      <SimpleField name="ETAPA_FAO" type="string"/>
+      <SimpleField name="Asistencia" type="string"/>
+      <SimpleField name="Estado_del" type="string"/>
+      <SimpleField name="Empresa" type="string"/>
+      <SimpleField name="Lote" type="string"/>
+      <SimpleField name="Fecha_de_M" type="string"/>
+      <SimpleField name="F__de_pren" type="string"/>
+      <SimpleField name="Estado_FAO" type="string"/>
+      <SimpleField name="Etapa_de_i" type="string"/>
+      <SimpleField name="Fecha_visi" type="string"/>
+      <SimpleField name="Cumple_sup" type="string"/>
+      <SimpleField name="Estado_mon" type="string"/>
+      <SimpleField name="Situaci_12" type="string"/>
+      <SimpleField name="Observaci" type="string"/>
+      <SimpleField name="Dias_trans" type="double"/>
+      <SimpleField name="Prioridad" type="string"/>
+    </Schema>
+    <Document id="Distrito_GUAYAIBI">
+      <name>Distrito_GUAYAIBI</name>
+      <Placemark id="Distrito_GUAYAIBI.1">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GUAYAIBI.schema">
+            <SimpleData name="Cédula">4015248.00000000000</SimpleData>
+            <SimpleData name="cedula">4015248</SimpleData>
+            <SimpleData name="N">53.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">ROMINA LUCIA MORENO SANCHEZ</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">-</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GUAYAIBI</SimpleData>
+            <SimpleData name="Localidad">DIOSESANO</SimpleData>
+            <SimpleData name="Teléfono">0986442009</SimpleData>
+            <SimpleData name="Vivienda_L">-24.51698870000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.40554800000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Pol?gono</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-24.51683637000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.40167747000</SimpleData>
+            <SimpleData name="Grupo_Impl">G1</SimpleData>
+            <SimpleData name="Grupo_de_P">Lote 1-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.2</SimpleData>
+            <SimpleData name="Asistencia">-</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.2</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/03</SimpleData>
+            <SimpleData name="Cumple_sup">Si</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">3.17576388889</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.400621700144,-24.5169417009295,0
+                -56.4029149999019,-24.5171349998973,0
+                -56.4025217004872,-24.5167316998962,0
+                -56.4007782999231,-24.5165117008952,0
+                -56.400621700144,-24.5169417009295,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_GUAYAIBI.2">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GUAYAIBI.schema">
+            <SimpleData name="Cédula">4808048.00000000000</SimpleData>
+            <SimpleData name="cedula">4808048</SimpleData>
+            <SimpleData name="N">52.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">VIRGILIA VAZQUEZ FRETES</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">-</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GUAYAIBI</SimpleData>
+            <SimpleData name="Localidad">ASENT. 15 DE AGOSTO</SimpleData>
+            <SimpleData name="Teléfono">0976475912</SimpleData>
+            <SimpleData name="Vivienda_L">-24.42192640000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.24946670000</SimpleData>
+            <SimpleData name="Superficie">0.80000000000</SimpleData>
+            <SimpleData name="Situaci_1">Pol?gono</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-24.42277705000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.25164613000</SimpleData>
+            <SimpleData name="Grupo_Impl">G1</SimpleData>
+            <SimpleData name="Grupo_de_P">Lote 1-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.2</SimpleData>
+            <SimpleData name="Asistencia">-</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.2</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/03</SimpleData>
+            <SimpleData name="Cumple_sup">Si</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">3.45759259259</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -56.2526702997445,-24.4233278000971,0
+                  -56.2530398998987,-24.4234846999813,0
+                  -56.2532112003396,-24.4230714007818,0
+                  -56.252861300263,-24.4229642001702,0
+                  -56.2526702997445,-24.4233278000971,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -56.2505336001928,-24.4226476006063,0
+                  -56.2519078000881,-24.4231015003235,0
+                  -56.2522189988326,-24.4227412002131,0
+                  -56.2506920007406,-24.4222193009291,0
+                  -56.2505336001928,-24.4226476006063,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Distrito_GUAYAIBI.3">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GUAYAIBI.schema">
+            <SimpleData name="Cédula">2446276.00000000000</SimpleData>
+            <SimpleData name="cedula">2446276</SimpleData>
+            <SimpleData name="N">41.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">CEFERIANA ROJAS TROCHE</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">-</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 6</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GUAYAIBI</SimpleData>
+            <SimpleData name="Localidad">CALLE 2000</SimpleData>
+            <SimpleData name="Teléfono">0985644604</SimpleData>
+            <SimpleData name="Vivienda_L">-24.54925860000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.40096990000</SimpleData>
+            <SimpleData name="Superficie">0.90000000000</SimpleData>
+            <SimpleData name="Situaci_1">Pol?gono</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-24.55217296000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.40083270000</SimpleData>
+            <SimpleData name="Grupo_Impl">G1</SimpleData>
+            <SimpleData name="Grupo_de_P">Lote 1-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Asistencia">-</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Fecha_de_M">27/1/2026</SimpleData>
+            <SimpleData name="F__de_pren">0</SimpleData>
+            <SimpleData name="Estado_FAO">Verificar posible desercion</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/04</SimpleData>
+            <SimpleData name="Cumple_sup">-</SimpleData>
+            <SimpleData name="Estado_mon">??????NO CUMPLE??????</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">Factor econ?mico;La parcela se encuentra con muy pocos cuidados, anteriormente ten?an ganado dentro de la parcela.</SimpleData>
+            <SimpleData name="Dias_trans">2.66321590278</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.4006368010973,-24.5538403008421,0
+                -56.4009065995422,-24.5538538997637,0
+                -56.4010346997379,-24.5505424000609,0
+                -56.4007510000443,-24.5505130001275,0
+                -56.4006368010973,-24.5538403008421,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_GUAYAIBI.4">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GUAYAIBI.schema">
+            <SimpleData name="Cédula">5635213.00000000000</SimpleData>
+            <SimpleData name="cedula">5635213</SimpleData>
+            <SimpleData name="N">58.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">LILIANA MEZA ROMERO</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">-</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GUAYAIBI</SimpleData>
+            <SimpleData name="Localidad">PRIMAVERA REAL</SimpleData>
+            <SimpleData name="Teléfono">0971403399</SimpleData>
+            <SimpleData name="Vivienda_L">-24.45038800000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.18427670000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Pol?gono</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-24.45164051000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.18449109000</SimpleData>
+            <SimpleData name="Grupo_Impl">G1</SimpleData>
+            <SimpleData name="Grupo_de_P">Lote 1-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.2</SimpleData>
+            <SimpleData name="Asistencia">-</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.2</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/02</SimpleData>
+            <SimpleData name="Cumple_sup">Si</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">4.49237268518</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.1841769984913,-24.4522644996524,0
+                -56.1846583995713,-24.4523426003413,0
+                -56.184796199868,-24.451009600025,0
+                -56.1843358630079,-24.4509264801901,0
+                -56.1841769984913,-24.4522644996524,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_GUAYAIBI.5">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GUAYAIBI.schema">
+            <SimpleData name="Cédula">5119792.00000000000</SimpleData>
+            <SimpleData name="cedula">5119792</SimpleData>
+            <SimpleData name="N">46.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">AMADA LEIVA CHILAVERT</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">-</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GUAYAIBI</SimpleData>
+            <SimpleData name="Localidad">NARANJA JAI</SimpleData>
+            <SimpleData name="Teléfono">0982690301</SimpleData>
+            <SimpleData name="Vivienda_L">-24.51357030000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.33052560000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Pol?gono</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-24.51484754000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.32761112000</SimpleData>
+            <SimpleData name="Grupo_Impl">G1</SimpleData>
+            <SimpleData name="Grupo_de_P">Lote 1-P2-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.2</SimpleData>
+            <SimpleData name="Asistencia">-</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.2</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/01</SimpleData>
+            <SimpleData name="Cumple_sup">Si</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">5.39418981481</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.3268634001761,-24.5149835002767,0
+                -56.3271738015904,-24.5153757016181,0
+                -56.3283480006822,-24.5147275008421,0
+                -56.3280499002727,-24.5143121001998,0
+                -56.3268634001761,-24.5149835002767,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_GUAYAIBI.6">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GUAYAIBI.schema">
+            <SimpleData name="Cédula">7013665.00000000000</SimpleData>
+            <SimpleData name="cedula">7013665</SimpleData>
+            <SimpleData name="N">55.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">LIZ FERNANDA BARRIOS ARGUELLO</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">-</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GUAYAIBI</SimpleData>
+            <SimpleData name="Localidad">PRIMAVERA REAL</SimpleData>
+            <SimpleData name="Teléfono">0975672073</SimpleData>
+            <SimpleData name="Vivienda_L">-24.40878060000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.18192600000</SimpleData>
+            <SimpleData name="Superficie">0.80000000000</SimpleData>
+            <SimpleData name="Situaci_1">Pol?gono</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-24.40957046000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.17990715000</SimpleData>
+            <SimpleData name="Grupo_Impl">G1</SimpleData>
+            <SimpleData name="Grupo_de_P">Lote 1-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.2</SimpleData>
+            <SimpleData name="Asistencia">-</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.2</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/03</SimpleData>
+            <SimpleData name="Cumple_sup">Si</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">3.23290509259</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.1789928995538,-24.4097688007562,0
+                -56.1792755997723,-24.410191800124,0
+                -56.1808184017112,-24.4093714015322,0
+                -56.1805474001874,-24.408947899286,0
+                -56.1789928995538,-24.4097688007562,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_GUAYAIBI.7">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GUAYAIBI.schema">
+            <SimpleData name="Cédula">2550880.00000000000</SimpleData>
+            <SimpleData name="cedula">2550880</SimpleData>
+            <SimpleData name="N">51.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">TOMASA MANCUELLO PINTOS</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">-</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GUAYAIBI</SimpleData>
+            <SimpleData name="Localidad">ASENT. 3 DE FEBRERO</SimpleData>
+            <SimpleData name="Teléfono">0976824815</SimpleData>
+            <SimpleData name="Vivienda_L">-24.43528770000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.20465940000</SimpleData>
+            <SimpleData name="Superficie">0.80000000000</SimpleData>
+            <SimpleData name="Situaci_1">Pol?gono</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-24.43978686000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.20412815000</SimpleData>
+            <SimpleData name="Grupo_Impl">G1</SimpleData>
+            <SimpleData name="Grupo_de_P">Lote 1-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.2</SimpleData>
+            <SimpleData name="Asistencia">-</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.2</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/02</SimpleData>
+            <SimpleData name="Cumple_sup">Si</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">4.25129629629</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.2039093002863,-24.44069640027,0
+                -56.2043149005489,-24.4407040010809,0
+                -56.2043344004124,-24.4388574005049,0
+                -56.2039547997478,-24.4388489008164,0
+                -56.2039093002863,-24.44069640027,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_GUAYAIBI.8">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GUAYAIBI.schema">
+            <SimpleData name="Cédula">7345541.00000000000</SimpleData>
+            <SimpleData name="cedula">7345541</SimpleData>
+            <SimpleData name="N">49.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">LIZ MARLENE FRANCO LEGUIZAMON</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">-</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GUAYAIBI</SimpleData>
+            <SimpleData name="Localidad">LUZ BELLA SAN LUIS</SimpleData>
+            <SimpleData name="Teléfono">0983874047</SimpleData>
+            <SimpleData name="Vivienda_L">-24.32257330000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.17413670000</SimpleData>
+            <SimpleData name="Superficie">0.80000000000</SimpleData>
+            <SimpleData name="Situaci_1">Pol?gono</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-24.32351175000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.17663489000</SimpleData>
+            <SimpleData name="Grupo_Impl">G1</SimpleData>
+            <SimpleData name="Grupo_de_P">Lote 1-P3-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.2</SimpleData>
+            <SimpleData name="Asistencia">-</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.2</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/05</SimpleData>
+            <SimpleData name="Cumple_sup">Si</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">1.23427083333</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.1762084003676,-24.3230618004317,0
+                -56.1761679998172,-24.3239420013319,0
+                -56.1770627008116,-24.3239443004743,0
+                -56.1771137998481,-24.3231033006011,0
+                -56.1762084003676,-24.3230618004317,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_GUAYAIBI.9">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GUAYAIBI.schema">
+            <SimpleData name="Cédula">4785599.00000000000</SimpleData>
+            <SimpleData name="cedula">4785599</SimpleData>
+            <SimpleData name="N">54.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">GILDA COLMAN SOSA</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">-</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GUAYAIBI</SimpleData>
+            <SimpleData name="Localidad">PRIMAVERA REAL</SimpleData>
+            <SimpleData name="Teléfono">0982633091</SimpleData>
+            <SimpleData name="Vivienda_L">-24.41661520000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.23446900000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Pol?gono</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-24.41824401000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.23477076000</SimpleData>
+            <SimpleData name="Grupo_Impl">G1</SimpleData>
+            <SimpleData name="Grupo_de_P">Lote 1-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.2</SimpleData>
+            <SimpleData name="Asistencia">-</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.2</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/02</SimpleData>
+            <SimpleData name="Cumple_sup">Si</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">4.17958333333</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.2345845016319,-24.4192258010003,0
+                -56.2349383001419,-24.4192423008033,0
+                -56.2349482000378,-24.4172403004918,0
+                -56.2346118011827,-24.4172338999529,0
+                -56.2345845016319,-24.4192258010003,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_GUAYAIBI.10">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GUAYAIBI.schema">
+            <SimpleData name="Cédula">6949534.00000000000</SimpleData>
+            <SimpleData name="cedula">6949534</SimpleData>
+            <SimpleData name="N">57.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">NANCY BENITEZ MACIEL</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">-</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GUAYAIBI</SimpleData>
+            <SimpleData name="Localidad">PRIMAVERA</SimpleData>
+            <SimpleData name="Teléfono">0986469293</SimpleData>
+            <SimpleData name="Vivienda_L">-24.45790650000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.18703270000</SimpleData>
+            <SimpleData name="Superficie">0.80000000000</SimpleData>
+            <SimpleData name="Situaci_1">Pol?gono</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-24.45838525000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.18991101000</SimpleData>
+            <SimpleData name="Grupo_Impl">G1</SimpleData>
+            <SimpleData name="Grupo_de_P">Lote 1-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.2</SimpleData>
+            <SimpleData name="Asistencia">-</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.2</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/02</SimpleData>
+            <SimpleData name="Cumple_sup">Si</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">4.54209490741</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.1893216996041,-24.4580833011163,0
+                -56.1893931992809,-24.4587333996385,0
+                -56.1904933996646,-24.4587033005557,0
+                -56.1904183997426,-24.4580217011073,0
+                -56.1893216996041,-24.4580833011163,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_GUAYAIBI.11">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GUAYAIBI.schema">
+            <SimpleData name="Cédula">6633380.00000000000</SimpleData>
+            <SimpleData name="cedula">6633380</SimpleData>
+            <SimpleData name="N">45.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">LOURDES PEREIRA ORTELLADO</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">-</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GUAYAIBI</SimpleData>
+            <SimpleData name="Localidad">NARANJA JAI</SimpleData>
+            <SimpleData name="Teléfono">0985235281</SimpleData>
+            <SimpleData name="Vivienda_L">-24.49889200000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.31781740000</SimpleData>
+            <SimpleData name="Superficie">0.80000000000</SimpleData>
+            <SimpleData name="Situaci_1">Pol?gono</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-24.49759302000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.32046706000</SimpleData>
+            <SimpleData name="Grupo_Impl">G1</SimpleData>
+            <SimpleData name="Grupo_de_P">Lote 1-P2-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.2</SimpleData>
+            <SimpleData name="Asistencia">-</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.2</SimpleData>
+            <SimpleData name="Fecha_visi">2026/08/29</SimpleData>
+            <SimpleData name="Cumple_sup">Si</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">8.26122685185</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.3195880001495,-24.4977499999672,0
+                -56.3198503004011,-24.4981170008006,0
+                -56.3213337002503,-24.4974320005168,0
+                -56.3211233002091,-24.497065000712,0
+                -56.3195880001495,-24.4977499999672,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_GUAYAIBI.12">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GUAYAIBI.schema">
+            <SimpleData name="Cédula">4412195.00000000000</SimpleData>
+            <SimpleData name="cedula">4412195</SimpleData>
+            <SimpleData name="N">44.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MARTA VILLALBA BAEZ</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">-</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 4</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GUAYAIBI</SimpleData>
+            <SimpleData name="Localidad">NARANJA JAI</SimpleData>
+            <SimpleData name="Teléfono">0984680146</SimpleData>
+            <SimpleData name="Vivienda_L">-24.48154710000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.30164050000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Pol?gono</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-24.47943014000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.30675139000</SimpleData>
+            <SimpleData name="Grupo_Impl">G1</SimpleData>
+            <SimpleData name="Grupo_de_P">Lote 1-P2-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Asistencia">-</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Fecha_de_M">30/3/2026</SimpleData>
+            <SimpleData name="F__de_pren">60</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear Reposicion</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/04</SimpleData>
+            <SimpleData name="Cumple_sup">-</SimpleData>
+            <SimpleData name="Estado_mon">??????NO CUMPLE??????</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">2.45263888889</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.3060616998839,-24.4792483007126,0
+                -56.3065109001697,-24.4800175995861,0
+                -56.3074551993312,-24.4795799998954,0
+                -56.3069832997981,-24.4788583001208,0
+                -56.3060616998839,-24.4792483007126,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_GUAYAIBI.13">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GUAYAIBI.schema">
+            <SimpleData name="Cédula">5637347.00000000000</SimpleData>
+            <SimpleData name="cedula">5637347</SimpleData>
+            <SimpleData name="N">59.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">ISMAEL BRITEZ ZARACHO</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">-</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GUAYAIBI</SimpleData>
+            <SimpleData name="Localidad">4000 TACUAPI</SimpleData>
+            <SimpleData name="Teléfono">985636190</SimpleData>
+            <SimpleData name="Vivienda_L">-24.49957480000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.21470860000</SimpleData>
+            <SimpleData name="Superficie">0.80000000000</SimpleData>
+            <SimpleData name="Situaci_1">Pol?gono</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-24.50086170000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.22144727000</SimpleData>
+            <SimpleData name="Grupo_Impl">G1</SimpleData>
+            <SimpleData name="Grupo_de_P">Lote 1-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.2</SimpleData>
+            <SimpleData name="Asistencia">-</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.2</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/01</SimpleData>
+            <SimpleData name="Cumple_sup">Si</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">5.15508101852</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.2208186011082,-24.5011510001508,0
+                -56.221904900205,-24.5013327016801,0
+                -56.222074299803,-24.5005655011384,0
+                -56.2209851991415,-24.5003965998662,0
+                -56.2208186011082,-24.5011510001508,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_GUAYAIBI.14">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GUAYAIBI.schema">
+            <SimpleData name="Cédula">6380595.00000000000</SimpleData>
+            <SimpleData name="cedula">6380595</SimpleData>
+            <SimpleData name="N">42.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">NORMA BEATRIZ CABA?AS ISASI</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">-</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GUAYAIBI</SimpleData>
+            <SimpleData name="Localidad">CALLE 2000</SimpleData>
+            <SimpleData name="Teléfono">0975955037</SimpleData>
+            <SimpleData name="Vivienda_L">-24.54887540000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.39215340000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Pol?gono</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-24.54773434000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.39198009000</SimpleData>
+            <SimpleData name="Grupo_Impl">G1</SimpleData>
+            <SimpleData name="Grupo_de_P">Lote 1-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Asistencia">-</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Fecha_de_M">12/3/2026</SimpleData>
+            <SimpleData name="F__de_pren">70</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear Reposicion</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/04</SimpleData>
+            <SimpleData name="Cumple_sup">-</SimpleData>
+            <SimpleData name="Estado_mon">??????NO CUMPLE??????</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">2.51062500000</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.3915912995891,-24.5473320012513,0
+                -56.3916166010191,-24.5481631005325,0
+                -56.3923163997822,-24.5481613014495,0
+                -56.392391700009,-24.5473182998128,0
+                -56.3915912995891,-24.5473320012513,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_GUAYAIBI.15">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GUAYAIBI.schema">
+            <SimpleData name="Cédula">7400206.00000000000</SimpleData>
+            <SimpleData name="cedula">7400206</SimpleData>
+            <SimpleData name="N">50.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">CRISTINA VILLORDO LOPEZ</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">-</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GUAYAIBI</SimpleData>
+            <SimpleData name="Localidad">ASENT. 15 DE AGOSTO</SimpleData>
+            <SimpleData name="Teléfono">0972438304</SimpleData>
+            <SimpleData name="Vivienda_L">-24.42952210000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.24824290000</SimpleData>
+            <SimpleData name="Superficie">0.80000000000</SimpleData>
+            <SimpleData name="Situaci_1">Pol?gono</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-24.42704622000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.23979511000</SimpleData>
+            <SimpleData name="Grupo_Impl">G1</SimpleData>
+            <SimpleData name="Grupo_de_P">Lote 1-P2-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.2</SimpleData>
+            <SimpleData name="Asistencia">-</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.2</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/03</SimpleData>
+            <SimpleData name="Cumple_sup">Si</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">3.38702546297</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.2388157993475,-24.4269103010512,0
+                -56.2406643998706,-24.4275300006084,0
+                -56.2407783002584,-24.427178300768,0
+                -56.2389022004616,-24.4265613995101,0
+                -56.2388157993475,-24.4269103010512,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_GUAYAIBI.16">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GUAYAIBI.schema">
+            <SimpleData name="Cédula">5656084.00000000000</SimpleData>
+            <SimpleData name="cedula">5656084</SimpleData>
+            <SimpleData name="N">43.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">LILIANA FERNANDEZ AVEIRO</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">-</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GUAYAIBI</SimpleData>
+            <SimpleData name="Localidad">CARAYAO I</SimpleData>
+            <SimpleData name="Teléfono">0971786462</SimpleData>
+            <SimpleData name="Vivienda_L">-24.51019020000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.37086720000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Pol?gono</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-24.51049421000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.37301105000</SimpleData>
+            <SimpleData name="Grupo_Impl">G1</SimpleData>
+            <SimpleData name="Grupo_de_P">Lote 1-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.2</SimpleData>
+            <SimpleData name="Asistencia">-</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.2</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/03</SimpleData>
+            <SimpleData name="Cumple_sup">Si</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">3.15682870370</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.3723549002029,-24.5101326005898,0
+                -56.3724838994632,-24.5105556999832,0
+                -56.3728736003296,-24.5105509001695,0
+                -56.37300140136,-24.5109770006813,0
+                -56.3735500006654,-24.5109808003752,0
+                -56.3733011007068,-24.5101145002276,0
+                -56.3723549002029,-24.5101326005898,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_GUAYAIBI.17">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GUAYAIBI.schema">
+            <SimpleData name="Cédula">2331434.00000000000</SimpleData>
+            <SimpleData name="cedula">2331434</SimpleData>
+            <SimpleData name="N">47.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">LUCIA ENCISO DE OVIEDO</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">-</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GUAYAIBI</SimpleData>
+            <SimpleData name="Localidad">LUZ BELLA SAN LUIS</SimpleData>
+            <SimpleData name="Teléfono">984582380</SimpleData>
+            <SimpleData name="Vivienda_L">-24.32305790000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.17425990000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Pol?gono</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-24.32350358000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.17757414000</SimpleData>
+            <SimpleData name="Grupo_Impl">G1</SimpleData>
+            <SimpleData name="Grupo_de_P">Lote 1-P2-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.2</SimpleData>
+            <SimpleData name="Asistencia">-</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.2</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/05</SimpleData>
+            <SimpleData name="Cumple_sup">Si</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">1.23540509259</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.1780269853971,-24.3231783932905,0
+                -56.17802170099,-24.323094900227,0
+                -56.1780281482327,-24.3230952774243,0
+                -56.1780283001828,-24.3230844000614,0
+                -56.1771166004592,-24.323136799276,0
+                -56.1771133000991,-24.3238949993527,0
+                -56.1780169001904,-24.3239002997546,0
+                -56.1780269853971,-24.3231783932905,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_GUAYAIBI.18">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GUAYAIBI.schema">
+            <SimpleData name="Cédula">7502195.00000000000</SimpleData>
+            <SimpleData name="cedula">7502195</SimpleData>
+            <SimpleData name="N">48.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">LIZ DANIELA GALEANO VILLASANTI</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">-</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GUAYAIBI</SimpleData>
+            <SimpleData name="Localidad">LUZ BELLA SAN LUIS</SimpleData>
+            <SimpleData name="Teléfono">986322271</SimpleData>
+            <SimpleData name="Vivienda_L">-24.32109850000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.17440220000</SimpleData>
+            <SimpleData name="Superficie">0.80000000000</SimpleData>
+            <SimpleData name="Situaci_1">Pol?gono</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-24.32037202000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.17673785000</SimpleData>
+            <SimpleData name="Grupo_Impl">G1</SimpleData>
+            <SimpleData name="Grupo_de_P">Lote 1-P2-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.2</SimpleData>
+            <SimpleData name="Asistencia">-</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.2</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/04</SimpleData>
+            <SimpleData name="Cumple_sup">Si</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">2.18137731482</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.1762248015038,-24.3199705008194,0
+                -56.1761995017486,-24.3207998999659,0
+                -56.1772516999953,-24.3207900010013,0
+                -56.1772600001114,-24.3199233004902,0
+                -56.1762248015038,-24.3199705008194,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_GUAYAIBI.19">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GUAYAIBI.schema">
+            <SimpleData name="Cédula">6581543.00000000000</SimpleData>
+            <SimpleData name="cedula">6581543</SimpleData>
+            <SimpleData name="N">56.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">LAURA BEATRIZ LEON VILLAGRA</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">-</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 6</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GUAYAIBI</SimpleData>
+            <SimpleData name="Localidad">PRIMAVERA</SimpleData>
+            <SimpleData name="Teléfono">0975382281</SimpleData>
+            <SimpleData name="Vivienda_L">-24.44961370000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.17929620000</SimpleData>
+            <SimpleData name="Superficie">0.90000000000</SimpleData>
+            <SimpleData name="Situaci_1">Pol?gono</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-24.45151922000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.17934771000</SimpleData>
+            <SimpleData name="Grupo_Impl">G1</SimpleData>
+            <SimpleData name="Grupo_de_P">Lote 1-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Asistencia">-</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Fecha_de_M">14/1/2026</SimpleData>
+            <SimpleData name="F__de_pren">60</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear Reposicion</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/02</SimpleData>
+            <SimpleData name="Cumple_sup">-</SimpleData>
+            <SimpleData name="Estado_mon">??????NO CUMPLE??????</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">4.46355324074</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.1786389003425,-24.4517635004596,0
+                -56.1792039993382,-24.4518059999741,0
+                -56.1795366016065,-24.4517739004162,0
+                -56.1795707997846,-24.4519499999324,0
+                -56.179968999246,-24.4519751009551,0
+                -56.1799505998817,-24.4512022001671,0
+                -56.1787117998854,-24.451156701386,0
+                -56.1786389003425,-24.4517635004596,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_GUAYAIBI.20">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GUAYAIBI.schema">
+            <SimpleData name="Cédula">4684009.00000000000</SimpleData>
+            <SimpleData name="cedula">4684009</SimpleData>
+            <SimpleData name="N">288.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">CAROLINA MARTINEZ TOLEDO</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">-</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GUAYAIBI</SimpleData>
+            <SimpleData name="Localidad">8 DE DICIEMBRE</SimpleData>
+            <SimpleData name="Teléfono">0986984816</SimpleData>
+            <SimpleData name="Vivienda_L">-24.39517010000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.31949900000</SimpleData>
+            <SimpleData name="Superficie">0.80000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-24.39326305000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.31777652000</SimpleData>
+            <SimpleData name="Grupo_Impl">G3</SimpleData>
+            <SimpleData name="Grupo_de_P">I-P3-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Asistencia">-</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">I</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/07/27</SimpleData>
+            <SimpleData name="Cumple_sup">Si</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">41.01370370370</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.3171526005055,-24.3926242997069,0
+                -56.3179261997546,-24.3940881999368,0
+                -56.3183835002107,-24.393879099872,0
+                -56.3176591000195,-24.3924734999003,0
+                -56.3171526005055,-24.3926242997069,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_GUAYAIBI.21">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GUAYAIBI.schema">
+            <SimpleData name="Cédula">4805732.00000000000</SimpleData>
+            <SimpleData name="cedula">4805732</SimpleData>
+            <SimpleData name="N">360.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">ROSALBA ISABEL ROJAS MOREL</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">-</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GUAYAIBI</SimpleData>
+            <SimpleData name="Localidad">LUZ BELLA JUSTO VILLANUEVA</SimpleData>
+            <SimpleData name="Teléfono">985181339</SimpleData>
+            <SimpleData name="Vivienda_L">-24.31136990000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.15960940000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Parametro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-24.31131434000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.16613985000</SimpleData>
+            <SimpleData name="Grupo_Impl">G3</SimpleData>
+            <SimpleData name="Grupo_de_P">I-P3-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Asistencia">-</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">I</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/07/27</SimpleData>
+            <SimpleData name="Cumple_sup">Si</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">41.01375000000</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.1654460999749,-24.31126400053,0
+                -56.1654349995121,-24.3116116998712,0
+                -56.166768300038,-24.3115833003452,0
+                -56.1667916994183,-24.3110016993427,0
+                -56.1655689001727,-24.3110303993863,0
+                -56.1656299995346,-24.3112549999222,0
+                -56.1654460999749,-24.31126400053,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_GUAYAIBI.22">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GUAYAIBI.schema">
+            <SimpleData name="Cédula">6693861.00000000000</SimpleData>
+            <SimpleData name="cedula">6693861</SimpleData>
+            <SimpleData name="N">287.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">DAMARY TORALES</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">-</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GUAYAIBI</SimpleData>
+            <SimpleData name="Localidad">8 DE DICIEMBRE</SimpleData>
+            <SimpleData name="Teléfono">0976867618</SimpleData>
+            <SimpleData name="Vivienda_L">-24.38713430000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.33912780000</SimpleData>
+            <SimpleData name="Superficie">0.80000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-24.38826906000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.34034063000</SimpleData>
+            <SimpleData name="Grupo_Impl">G3</SimpleData>
+            <SimpleData name="Grupo_de_P">I-P3-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Asistencia">-</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">I</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/07/27</SimpleData>
+            <SimpleData name="Cumple_sup">Si</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">41.01368055560</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.3404419001515,-24.3889612998288,0
+                -56.3405103998654,-24.3889771004861,0
+                -56.3405955000872,-24.3889657002557,0
+                -56.3408829005483,-24.3887248995473,0
+                -56.3408780996958,-24.3886900001765,0
+                -56.3403199000131,-24.387651200318,0
+                -56.3397188996853,-24.3876890999201,0
+                -56.3404419001515,-24.3889612998288,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>
